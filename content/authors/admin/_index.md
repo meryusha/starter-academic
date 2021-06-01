@@ -1,7 +1,7 @@
 ---
 title: Merey Ramazanova
 role: Ph.D. Student at KAUST
-avatar_filename: merey-ramazanova.jpg
+avatar_filename: avatar.jpg
 bio: "My research interests include visual computing, videos understanding, and
   deep learning. "
 interests:
