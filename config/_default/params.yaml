@@ -27,10 +27,10 @@ address:
   postcode: '23955'
   country: Saudi Arabia
   country_code: KSA
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# coordinates:
+#   latitude: '37.4275'
+#   longitude: '-122.1697'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 
 # Site header
 
