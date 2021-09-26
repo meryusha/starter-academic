@@ -22,7 +22,7 @@ social:
     link: https://github.com/meryusha
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/merey/
 organizations:
   - name: King Abdullah University of Science and Technology
     url: https://kaust.edu.sa/en
@@ -31,6 +31,10 @@ education:
     - course: MS in Computer Science
       institution: King Abdullah University of Science and Technology
       year: 2020
+  courses:
+    - course: BS in Computer Science
+      institution: Nazarbayev University
+      year: 2018
 
 email: ""
 superuser: true
