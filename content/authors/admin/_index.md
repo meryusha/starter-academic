@@ -31,7 +31,6 @@ education:
     - course: MS in Computer Science
       institution: King Abdullah University of Science and Technology
       year: 2020
-  courses:
     - course: BS in Computer Science
       institution: Nazarbayev University
       year: 2018
