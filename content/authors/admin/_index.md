@@ -41,4 +41,4 @@ highlight_name: false
 ---
 Doing Ph.D. in Computer Science. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "data/merey_ramazanova_cv_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/16tZTEyyM25cCevXyrGVh-QTZM_84BT1k/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
